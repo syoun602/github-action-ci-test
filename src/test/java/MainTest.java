@@ -6,7 +6,7 @@ class MainTest {
 
     @Test
     void some() {
-        final boolean bool = true;
+        final boolean bool = false;
         assertTrue(bool);
     }
 }
